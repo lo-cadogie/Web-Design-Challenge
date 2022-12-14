@@ -1,0 +1,43 @@
+/* Adding style by class:  */
+.col{
+  margin : 0px;
+  border: 1px solid #333333;
+}
+
+.navbar {
+  background-color:darkgrey
+
+}
+
+.navbar-brand{
+  background-color:rgb(4, 230, 247);
+  color:white;
+}
+
+.row{
+  background-color:rgb(250, 248, 248);
+  margin : 5px;
+  float: center;
+  align-items: center;
+  
+}
+
+
+ /* Adding style by id:  */
+#description-image{
+  width : 50%;
+  height : 50%;
+  margin : 20px;
+} 
+
+.col-md-4 img{
+  width : 50%;
+  height : 50%;
+} 
+
+.comparisonimage{
+  width : 300%;
+  height : 300%;
+  margin : 20px;
+
+}
